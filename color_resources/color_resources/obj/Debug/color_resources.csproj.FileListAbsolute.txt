@@ -1,0 +1,14 @@
+D:\Pranit\color_resources\color_resources\bin\Debug\color_resources.exe.config
+D:\Pranit\color_resources\color_resources\bin\Debug\color_resources.exe
+D:\Pranit\color_resources\color_resources\bin\Debug\color_resources.pdb
+D:\Pranit\color_resources\color_resources\obj\Debug\NestedPanel.baml
+D:\Pranit\color_resources\color_resources\obj\Debug\NestedPanel.g.cs
+D:\Pranit\color_resources\color_resources\obj\Debug\App.g.cs
+D:\Pranit\color_resources\color_resources\obj\Debug\color_resources_MarkupCompile.cache
+D:\Pranit\color_resources\color_resources\obj\Debug\color_resources.g.resources
+D:\Pranit\color_resources\color_resources\obj\Debug\color_resources.Properties.Resources.resources
+D:\Pranit\color_resources\color_resources\obj\Debug\color_resources.csproj.GenerateResource.Cache
+D:\Pranit\color_resources\color_resources\obj\Debug\color_resources.exe
+D:\Pranit\color_resources\color_resources\obj\Debug\color_resources.pdb
+D:\Pranit\color_resources\color_resources\obj\Debug\nestedstackpanel.baml
+D:\Pranit\color_resources\color_resources\obj\Debug\nestedstackpanel.g.cs

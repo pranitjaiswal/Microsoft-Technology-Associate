@@ -1,0 +1,6 @@
+D:\Pranit\Class1\Class1\bin\Debug\Class1.exe.config
+D:\Pranit\Class1\Class1\bin\Debug\Class1.exe
+D:\Pranit\Class1\Class1\bin\Debug\Class1.pdb
+D:\Pranit\Class1\Class1\obj\Debug\Class1.csprojResolveAssemblyReference.cache
+D:\Pranit\Class1\Class1\obj\Debug\Class1.exe
+D:\Pranit\Class1\Class1\obj\Debug\Class1.pdb
