@@ -1,0 +1,27 @@
+﻿<Window x:Class="BindingAction.BindingModeTest"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BindingModeTest" Height="350" Width="300">
+    <StackPanel>
+        <TextBlock Text="Binding Mode"></TextBlock>
+        <GroupBox Header="Source" Margin="5">
+            <Slider Name="sldr" Value="5"></Slider>
+        </GroupBox>
+        <GroupBox Header="Target" Margin="5">
+            <StackPanel Margin="5">
+                <TextBlock Text="One Way" Margin="3"></TextBlock>
+                <TextBox Text="{Binding ElementName=sldr, Path=Value, Mode=OneWay}"></TextBox>
+
+                <TextBlock Text="Two Way" Margin="3"></TextBlock>
+                <TextBox Text="{Binding ElementName=sldr, Path=Value, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+
+                <TextBlock Text="One Time" Margin="3"></TextBlock>
+                <TextBox Text="{Binding ElementName=sldr, Path=Value, Mode=OneTime}"></TextBox>
+
+                <TextBlock Text="One Way to Source" Margin="3"></TextBlock>
+                <TextBox Text="{Binding ElementName=sldr, Path=Value, Mode=OneWayToSource}"></TextBox>
+            </StackPanel>
+        </GroupBox>
+        
+    </StackPanel>
+</Window>

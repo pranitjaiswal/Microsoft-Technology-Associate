@@ -1,0 +1,17 @@
+﻿<Window x:Class="BindingAction.SimpleNameBinding"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SimpleNameBinding" Height="300" Width="300" Loaded="Window_Loaded_1">
+    <StackPanel>
+        <TextBlock Margin="8" Text="Simple Slider" TextAlignment="Center" FontSize="20" Foreground="Pink" FontWeight="Bold"></TextBlock>
+        <GroupBox Header="Source Object" BorderBrush="black" BorderThickness="3" Height="65">
+            <StackPanel Orientation="Horizontal" Margin="5">
+                <TextBlock Margin="5" Text="Name :-"></TextBlock>
+                <TextBox Name="dtbtnamesource" Width="150" Margin="5"></TextBox>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Target Object" BorderBrush="Black" BorderThickness="2">
+            <TextBlock Height="50" x:Name="tbtarget" Background="SkyBlue" Margin="8"></TextBlock>
+        </GroupBox>
+        </StackPanel>
+</Window>

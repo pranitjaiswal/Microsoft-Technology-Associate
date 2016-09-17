@@ -1,0 +1,15 @@
+﻿<Window x:Class="BindingAction.DeclarativeSlider"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DeclarativeSlider" Height="300" Width="300">
+    
+    <StackPanel>
+        <TextBlock Margin="8" Text="Simple Slider" TextAlignment="Center" FontSize="20" Foreground="Pink" FontWeight="Bold"></TextBlock>
+        <GroupBox Header="Source Object" BorderBrush="black" BorderThickness="3" Height="65">
+            <Slider x:Name="sldsource1" Value="5" Maximum="20" Minimum="1" Margin="8"></Slider>
+        </GroupBox>
+        <GroupBox Header="Target Object" BorderBrush="Black" BorderThickness="2">
+            <TextBlock Text="{Binding ElementName=sldsource1, Path=Value}" Height="50"  Background="SkyBlue" Margin="8"></TextBlock>
+        </GroupBox>
+    </StackPanel>
+</Window>

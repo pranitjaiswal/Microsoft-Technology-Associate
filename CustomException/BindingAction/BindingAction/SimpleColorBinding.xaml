@@ -1,0 +1,18 @@
+﻿<Window x:Class="BindingAction.SimpleColorBinding"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SimpleColorBinding" Height="300" Width="300" Loaded="Window_Loaded_1">
+    <StackPanel>
+        <GroupBox Header="Source" Margin="8">
+            <StackPanel>
+                <TextBlock Text="Name" Margin="8"></TextBlock>
+                <TextBox x:Name="txtName" Margin="8" Width="150"></TextBox>
+                <TextBlock Text="Color" Margin="8"></TextBlock>
+                <TextBox x:Name="txtColor" Width="150"></TextBox>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Tagert" Margin="8">
+            <TextBlock x:Name="tbtarget" Margin="8"></TextBlock>
+        </GroupBox>
+    </StackPanel>
+</Window>
