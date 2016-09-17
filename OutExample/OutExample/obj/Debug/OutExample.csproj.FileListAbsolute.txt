@@ -1,0 +1,5 @@
+D:\Pranit\OutExample\OutExample\bin\Debug\OutExample.exe.config
+D:\Pranit\OutExample\OutExample\bin\Debug\OutExample.exe
+D:\Pranit\OutExample\OutExample\bin\Debug\OutExample.pdb
+D:\Pranit\OutExample\OutExample\obj\Debug\OutExample.exe
+D:\Pranit\OutExample\OutExample\obj\Debug\OutExample.pdb

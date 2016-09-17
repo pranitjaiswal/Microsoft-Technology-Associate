@@ -1,0 +1,6 @@
+D:\Pranit\PrivateAccessSpecifiers\PrivateAccessSpecifiers\bin\Debug\PrivateAccessSpecifiers.exe.config
+D:\Pranit\PrivateAccessSpecifiers\PrivateAccessSpecifiers\bin\Debug\PrivateAccessSpecifiers.exe
+D:\Pranit\PrivateAccessSpecifiers\PrivateAccessSpecifiers\bin\Debug\PrivateAccessSpecifiers.pdb
+D:\Pranit\PrivateAccessSpecifiers\PrivateAccessSpecifiers\obj\Debug\PrivateAccessSpecifiers.csprojResolveAssemblyReference.cache
+D:\Pranit\PrivateAccessSpecifiers\PrivateAccessSpecifiers\obj\Debug\PrivateAccessSpecifiers.exe
+D:\Pranit\PrivateAccessSpecifiers\PrivateAccessSpecifiers\obj\Debug\PrivateAccessSpecifiers.pdb
