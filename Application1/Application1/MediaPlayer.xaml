@@ -1,0 +1,18 @@
+﻿<Window x:Class="Application1.MediaPlayer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MediaPlayer" Height="300" Width="300">
+    <StackPanel>
+        <MediaElement x:Name="vlcplayer" LoadedBehavior="Manual" Source="D:\Pranit\Application1\Application1\video\Wildlife.wmv"></MediaElement>
+        <StackPanel Orientation="Horizontal">
+            <Button x:Name="btnplay" Content="Play" Margin="5" Height="35" Width="50" Click="btnplay_Click"></Button>
+            <Button x:Name="btnstop" Content="Stop" Margin="5" Width="50" Click="btnstop_Click"></Button>
+            <Button x:Name="btnexit" Margin="5" Width="50" Click="btnexit_Click">
+            <StackPanel>
+                <TextBlock Text="Exit"></TextBlock>
+                <Rectangle Fill="Red" Height="10" Width="15"></Rectangle>
+            </StackPanel>
+            </Button>
+        </StackPanel>
+    </StackPanel>
+</Window>
