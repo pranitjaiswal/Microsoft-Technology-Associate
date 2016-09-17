@@ -1,0 +1,12 @@
+D:\Pranit\Generics\Generics\bin\Debug\Generics.exe.config
+D:\Pranit\Generics\Generics\obj\Debug\MainWindow.baml
+D:\Pranit\Generics\Generics\obj\Debug\MainWindow.g.cs
+D:\Pranit\Generics\Generics\obj\Debug\App.g.cs
+D:\Pranit\Generics\Generics\obj\Debug\Generics_MarkupCompile.cache
+D:\Pranit\Generics\Generics\obj\Debug\Generics.g.resources
+D:\Pranit\Generics\Generics\obj\Debug\Generics.Properties.Resources.resources
+D:\Pranit\Generics\Generics\obj\Debug\Generics.csproj.GenerateResource.Cache
+D:\Pranit\Generics\Generics\bin\Debug\Generics.exe
+D:\Pranit\Generics\Generics\bin\Debug\Generics.pdb
+D:\Pranit\Generics\Generics\obj\Debug\Generics.exe
+D:\Pranit\Generics\Generics\obj\Debug\Generics.pdb
