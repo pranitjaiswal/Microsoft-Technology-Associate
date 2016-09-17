@@ -1,0 +1,5 @@
+D:\Pranit\DavidQuestion\DavidQuestion\bin\Debug\DavidQuestion.exe.config
+D:\Pranit\DavidQuestion\DavidQuestion\bin\Debug\DavidQuestion.exe
+D:\Pranit\DavidQuestion\DavidQuestion\bin\Debug\DavidQuestion.pdb
+D:\Pranit\DavidQuestion\DavidQuestion\obj\Debug\DavidQuestion.exe
+D:\Pranit\DavidQuestion\DavidQuestion\obj\Debug\DavidQuestion.pdb
