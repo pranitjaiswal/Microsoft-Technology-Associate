@@ -1,0 +1,5 @@
+D:\Pranit\Exceptpio\Exceptpio\bin\Debug\Exceptpio.exe.config
+D:\Pranit\Exceptpio\Exceptpio\bin\Debug\Exceptpio.exe
+D:\Pranit\Exceptpio\Exceptpio\bin\Debug\Exceptpio.pdb
+D:\Pranit\Exceptpio\Exceptpio\obj\Debug\Exceptpio.exe
+D:\Pranit\Exceptpio\Exceptpio\obj\Debug\Exceptpio.pdb
