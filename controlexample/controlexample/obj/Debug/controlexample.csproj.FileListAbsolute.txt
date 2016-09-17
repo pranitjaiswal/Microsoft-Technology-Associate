@@ -1,0 +1,13 @@
+D:\Pranit\controlexample\controlexample\bin\Debug\controlexample.exe.config
+D:\Pranit\controlexample\controlexample\bin\Debug\controlexample.exe
+D:\Pranit\controlexample\controlexample\bin\Debug\controlexample.pdb
+D:\Pranit\controlexample\controlexample\obj\Debug\controlexample.csprojResolveAssemblyReference.cache
+D:\Pranit\controlexample\controlexample\obj\Debug\MainWindow.baml
+D:\Pranit\controlexample\controlexample\obj\Debug\MainWindow.g.cs
+D:\Pranit\controlexample\controlexample\obj\Debug\App.g.cs
+D:\Pranit\controlexample\controlexample\obj\Debug\controlexample_MarkupCompile.cache
+D:\Pranit\controlexample\controlexample\obj\Debug\controlexample.g.resources
+D:\Pranit\controlexample\controlexample\obj\Debug\controlexample.Properties.Resources.resources
+D:\Pranit\controlexample\controlexample\obj\Debug\controlexample.csproj.GenerateResource.Cache
+D:\Pranit\controlexample\controlexample\obj\Debug\controlexample.exe
+D:\Pranit\controlexample\controlexample\obj\Debug\controlexample.pdb

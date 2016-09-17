@@ -1,0 +1,43 @@
+﻿<Window x:Class="controlexample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <DockPanel>
+        <Menu>
+            <MenuItem Header="file">
+                <MenuItem Header="Open">
+                    <MenuItem.Icon>
+                        <Image Source="D:\Pranit\controlexample\controlexample\Images\Open.jpg" Height="20" Width="20"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Save">
+                    <MenuItem.Icon>
+                        <Image Source="D:\Pranit\controlexample\controlexample\Images\Save.png" Height="20" Width="20"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Save as">
+                    <MenuItem.Icon>
+                        <Image Source="D:\Pranit\controlexample\controlexample\Images\Save as.png" Height="20" Width="20"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="edit">
+                <MenuItem Header="Cut">
+                    <MenuItem.Icon>
+                        <Image Source="D:\Pranit\controlexample\controlexample\Images\Cut.png" Height="20" Width="20"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Copy">
+                    <MenuItem.Icon>
+                        <Image Source="D:\Pranit\controlexample\controlexample\Images\Copy.png" Height="20" Width="20"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Paste">
+                    <MenuItem.Icon>
+                        <Image Source="D:\Pranit\controlexample\controlexample\Images\Paste.png" Height="20" Width="20"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+    </DockPanel>
+</Window>
